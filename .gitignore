@@ -1,0 +1,7 @@
+blogsenv/
+__pycache__/
+instance/
+
+notes.txt
+
+.env
